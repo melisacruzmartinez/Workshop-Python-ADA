@@ -13,4 +13,4 @@ OOP sample: Jerarquia Clases Netflix
 
 Ninja Level: web capture automation(Selenium+Helium) real example.
 
-Dara Science/Aplicaciones Financieras: ejemplo de prestamo credito basico con plotting+mathlablib+numPy+panda+JupyterNotebook 
+Data Science/Aplicaciones Financieras: ejemplo de prestamo credito basico con plotting+mathlablib+numPy+panda+JupyterNotebook 
